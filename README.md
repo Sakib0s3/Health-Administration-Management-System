@@ -16,7 +16,6 @@ i. Department Module: Stores unique departments with names and descriptions.
 ii. Staff Module: Holds information such as doctor names, specializations, experience,
 availability, and department links.
 iii. Patient Module: Saves patient details including name, contact, and demographics.
-
 iv. Appointment Module: Allows patients to book, view, and cancel appointments, with
 time stamps and status updates.
 
