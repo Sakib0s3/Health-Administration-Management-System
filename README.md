@@ -26,14 +26,14 @@ ERD Model
 XAMPP and phpMyAdmin for local development.
 MySQL and SQL queries for database creation, data entry, and reporting.
 
-6. Sample Functionalities
+6. Sample Functionalities:
 i. List all doctors in a specific department.
 ii. Display available appointment slots for a doctor.
 iii. View all patients born after a certain year.
 iv. Track or cancel appointments.
 v. Add new patient or staff entries.
 
-7. Conclusion
+7. Conclusion: 
 This project demonstrates how structured database systems can improve hospital service
 delivery by managing appointments, staff schedules, and patient access. It highlights the
 practical use of ER modeling and SQL in solving realworld healthcare administration
